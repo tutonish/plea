@@ -1,0 +1,21 @@
+[book]
+authors = ["Elias Molee"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Plea for an American Language"
+description = ""
+
+[output.html]
+theme = "src/theme"
+default-theme = "rust"
+preferred-dark-theme = "ayu"
+git-repository-url = ""
+site-url = "/plea/"
+google-analytics = ""
+
+[output.html.fold]
+enable = false
+
+[build]
+build-dir = "docs"
