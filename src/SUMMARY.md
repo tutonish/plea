@@ -10,6 +10,7 @@
 - [t.—The Irish Language](./plea/4-irish.md)
 - [d.—Injury of Unsystematic Spelling](./plea/5-spelling.md)
 - [k.—Injury of Unrelated Foreign Words](./plea/6-foreign.md)
+  - [More Understanding](./plea/6-1-understanding.md)
 - [g.—Present English is a Poor Child's Enemy](./plea/7-poor.md)
 - [f.—The English Speak as a Conquered People](./plea/8-conquered.md)
 - [v.—What is Americanism?](./plea/9-americanism.md)
