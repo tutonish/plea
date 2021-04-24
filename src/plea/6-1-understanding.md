@@ -66,3 +66,98 @@ Great interest is being taken in schools and language in Japan. Instead of borro
 Under this head of **More Understanding with Self-Development** I shall quote a few of the highest authorities from America, England, Germany and Skandinavia and leave this point.
 
 James Hadley, Professor of the Greek language and literature in Yale College, says in his "Brief History of the English Language," prefixed to Webster's Unabridged Dictionary under the head of *Power of Self-development Lost*: "From the simple word to *stand* the English make *understand* and *withstand*; the Anglo-Saxons had *atstandan, bestandan, bigstandan, forstandan, forestandan, gestandan, odhstandan, understandan, widhstandan, ymstandan*. This deficiency in English is made up for in a measure by the use of separate particles, as, to stand up, to stand off, to stand by, to stand to, etc. Still the formative system of the language has become greatly restricted. It no longer possesses the unlimited power of development from its own resources, which we see in the Anglo-Saxon and in the modern German. If a new word is wanted, instead of producing it from elements already existing in English, we must often go to the Latin or to the Greek and find and fashion there something that will answer the purpose. By this process our language is placed in a dependent position being reduced to supply its need by constant borrowing. But it is a more *serious* disadvantage that in order to express our ideas we are obliged to translate them into dead languages. The *expressiveness* of the new term, that which fits it for its purpose, is hidden from those who are unacquainted with the classic tongues; that is, in many cases from the great body of those who are to use it. To them it is a group of arbitrary syllables, and nothing more. The term thus loses its suggestiveness, and the language suffers greatly in its power of quickening and aiding thought."
+
+Examples of natural and artificial words: *eye-healer* and *oculist*, *tooth-healer* and *dentist*. A good word must remind us of the required images. John Stuart Mill, in his "System of Logic," page 431, says:
+
+> We must not only be constantly thinking of the phenomena themselves, but we must be constantly looking at them; making ourselves acquainted with the peculiarities of every case.
+
+> The algebraic notation, viewed as a philosophical language, is perfect in its adaptation to the subjects for which it is commonly employed, namely those of which the investigations have already been reduced to the ascertainment of a relation between numbers. But admirable as such arbitrary language is for its own purpose, the properties by which it is rendered such are so far from constituting it the model philosophical language in general, that the more nearly the langauge of any other branch of science approaches it, the less fit that language is for its own proper functions.
+
+> On all other subjects, instead of contrivances to prevent our attention from being *distracted* by thinking of the meaning of our signs, we require contrivances to make it impossible that we should ever lose sight of that meaning, even for an instant.
+
+> With this view, as much meaning as possible should be thrown into the formation of the word itself, the aids of derivation and analogy being made available *to keep alive a consciousness* of all that is signified by it. In this respect those languages have an immense advantage which form their compounds and derivations from *native roots*, like the German, and not from those of a foreign or a dead language, as is so much the case with English, French and Italian; and the best are those which form compounds and derivatives according to *fixed* analogies, corresponding to the relations between the ideas to be expressed. All languages do this more or less, but especially among modern European languages; the German, while even that is inferior to the Greek, in which the relation between the meaning and that of its primitive is in general clearly marked by its mode of formation, except in the case of prepositions, which, it must be acknowledged, are often in both languages extremely anomalous.
+
+> [...] But all that can be done by the mode of constructing words to prevent them from degenerating into sounds passing through the mind without any distinct apprehension of what they signify, is far too little for the necessity of the case. Words, however well constructed originally, are always tending, like coins, to have their inscriptions worn off by passing from hand to hand, and the only possible mode of reviving it is to be ever stamping it afresh.
+
+I can see no danger of compounds losing their original inscriptions if the original words are taken, as *eyehealer* and *shoemaker*. If we should wear out *eye, healer, shoe* or *maker*, we would have no word for those original ideas. Upon this broad plan compounds must become as strong as the original single words. For this reason prefixes and suffixes should be used as much as possible separately or clearly and *regularly derived*, to strengthen the linguistic feeling. Much effacement of words might be prevented by compelling an accurate pronunciation of words, which can be done by employing letters for numerical business purposes. (See alphabetic numerals in the grammar.) Mill further adds:
+
+> Classification is a contrivance for the best possible ordering of the ideas of objects in our minds, for causing the ideas to accompany or follow one another in such a way as shall give us the greatest command over our knowledge already acquired, and lead most directly to the acquisition of more.
+
+*Fishlore* leads us directly to a knowledge which the borrowed *ichthyology* does not, because there is no ordering or classifying of previous knowledge. A word should be easy to understand and remember the first time seen.
+
+The best statement of all is the following, in "Mill's System of Logic," page 441:
+
+> A word should be constructed so that a person who knows the thing may receive all the assistance which the name can give in remembering what he knows, while he who knows it not may receive as much knowledge respecting it as the case admits of, by merely being told its name.
+
+The aboce is Greek, German, Irish, Skandinavian, Anglo-Saxon and common-sense doctrine. Ex.: *Eyehealer*, oculist; *birdlore*, ornithology; *fishlore*, ichthyology. What does *creche* and *foyer* mean, which I saw lately in an English newspaper? Words must be taken as much as possible from former sense impressions. The great philosopher, Schopenhauer, says:
+
+> Je starker das, was man Geist nennt, um so machtiger auch die Naturgrundlage desselben. Ohne eine starke Sinnlichkeit geibt es keine Genie.
+
+Another good saying of Mill, of the same import as the sentence quoted, is that words should be "clothed in circumstances," and that we should "economize the use of names by compounding those we already know from experience."
+
+My third witness in favor of the Anglo-Saxon and German principle of self-development as against the English principle of borrowing, is G.P. Marsh, in his "Lecture on the English Language," pp. 206 and 207, where he says:
+
+> German is singularly homogeneous and consistent in its vocabulary. The essential unity of the speech gives its study immense value, both as a philological and an intellectual discipline, and it has powerfully contrivuted to the eminently national and original character of a literature, which for a century, has done more to widen the sphere of human knowledge, and elevate the habitual range of human thought, than the learning and the intellect of all the world besides.
+
+> We express most moral affections, most intellectual functions and attributes, most critical categories and most scientific notions, by words derived from Greek and Latin primitives. Such words do not carry their own definitions with them, and to the mere English student they are purely arbitrary in their signification.
+
+The learned American professor says again on page 12:
+
+> The general inferiority of English and French to Skandinavian and Teutonic scholars in philological, and especially etymological research, is a remarkable but indisputable fact, and its explanation is not obvious. I can by no means ascribe the difference to an inherent inaptitude on our part to such subtle investigations, to the delicate relations between allied sounds and allied significations; but I believe the cause to lie much in the different intellectual habits which are formed in early life by the use of the respective languages of these nations. The German is remarkably homogeneous in its character. An immense proportion of its vocabulary consists either of simple primitives, or of words obviously drawn by composition or derivation from radicals still existing in current use as independent vocables. Its grammatical structure is of great regularity, and there are few tongues where the conformity to general rules is so universal, and where *isolated, unrelated* philological facts are so rare. At the same time there is enough of *grammatical inflections* to familiarize the native speaker with syuntactical principles imperfectly exemplified in French and English, and a sufficiently complex arrangement of the period to call into constant exercise the logical faculties required for the comprehension and application of the rules of universal grammar. The German language is in itself an intellectual and especially linguistic discipline; it has great advantages over any of the tongues which embody the general literature of Europe. The German boy comes out of the nursery scarcely a worse grammarian, and a far better etymologist, than the ancient Roman, and is already imbued with a philological culture which the Englishman and the Frenchman can only acquire by years of painful study. Hence, we account readily for the comparative excellence of the German dictionaries and other helps to the full knowledge of the language, while in English, having *no grammar*, we have till lately possessed no grammars, and we still want a dictionary. In both English and French the etymology is foreign, or obscured by great changes of form, the syntax is arbitrary and conventional (so far as those terms can applied to anything in language), the inflections are *bald and imperfectly distinguished*, and the number of solitary exceptional facts very great.* (See chapter pp, defect 4.)
+
+> The German philologist, then, begins where the Englishman and the Frenchman leave off—or rather at a point to which the great mass of French and English literary men never attain, and with such an advantage in the starting ground, it would be strange if he did not surpass his rivals.
+
+> I have no doubt whatever that the study of the Greek and Latin languages might be advantageously replaced by that of the Anglo-Saxon and primitive English, as instruments of general culture. An overwhelming proportion of the words which make up our daily speech are drawn from Anglo-Saxon roots, and our syntax is as distinctly and as generally to be traced to the same source.
+
+The English people have been so long oppressed with foreign words that a hopeless *let go as it will* has resulted. That there is a greater taste for language among the Germans and Skandinavians is clear from the efforts in those countries to improve, both with regard to spelling and vocabulary. The advantage of a pure language is preached in their universities. Postmaster-General Stephan, in Berlin, forbids foreign terms to be used in the Postal Department. In Sweden, both Karl XI. and Karl XII. forbade the clergy to use foreign words in their sermons. Hence, their languages are getting purer and clearer to the people every year, while English is getting worse, because we have little sense of the inharmonious and incongruous in speech. Adding Romance words to Germanic ones is like patching a black coat with red pieces. Where is the linguistic taste?
+
+I will now quote the highest German and Skandinavian authorities as to the injury to a *wide understanding* of what is heard or seen in language by foreign or unrelated borrowing. In quoting German and Skandinavian authors, I shall present their language with Roman types. Types are the mere external dress of language, and I agree with those German and Skandinavian scholars who believe in economizing the learning of so many different letters by adopting the cosmopolitan Roman ones, as the English, Swedes and Dutch have already done, and the Germans, Danes and Norwegians partially. All must learn these types anyhow. Volapuk has adopted them. What an obstacle is not specially formed letters in Russian, Irish, Turkish and Hebrew. The Roman is the world's type, and it can't be changed. It would strengthen the Russian, Chinese and German languages in the world to adopt it, because it would enforce less special study on the various readers.
+
+In his preface to the German Dictionary, Jakob Grimm says of *language purification*:
+
+> Alle Sprachen, so lange sie gesund sind haben einen Naturtrieb das Fremde von sich abzuhalten und, wo sein Eindrang erfolgte, es wieder auszustossen, wenigstens mit den heimischen Elementen auszugleichen.....Wie der Stolz auf unsere Sprache, der oft noch schlummert, einmal hell erwacht und die Bekanntshaft mit allen Mitteln wachst, welche sie selbst uns darreicht, um noch bezeichnendere und uns angemessenere Ausdrucke zu gewinnen, wird auch die Anwendung des Fremden weichen und beschrankt werden.....Man darf uberhaupt nicht vergessen, dass es keineswegs die Mitte des Volks ist, die das Fremde in unserer Sprache heranschwemmte, vielmehr dass es ihr zugefuhrt wurde durch die dem auslandischen Brauch huldigenden Furstenhofe, durch den steifen und undeutschen Stil der Behorden, durch Kanzeleien und Gerichte, sowie durch das Bestreben aller Wissenschaften, ihre Kunstausdrucke den fremden zu bequemen oder diesen den Rang vor jedem eigenen Wort zu lassen.
+
+Sanders says in his Dictionary of Foreign Words, as given by "Meyer's Konversations Lexicon":
+
+> Wem das Gefuhl fur Einheit und Reinheit der Sprache nicht ganz abhanden gekommen ist, dessen Ohr muss durch die Einmischung des Fremdartigen, auch wenn er den Sinn vollkommen versteht, empfindlich verletzt werden. Dazu ist fur die (fremder Sprachen unkundige) grosse Masse des Volks zugleich alles Undeutsche auch etwas Undeutliches, Unverstandenes und Unverstandliches, und so entsteht durch die Einmischung des Fremdartigen nicht blos eine das feinere Sprachgefuhl beleidigende Ungleichartigkeit und Buntscheckigkeit, sondern auch geradezu ein die Volksverstandlichkeit schwer beeintrachtigendes Kauderwalsch.
+
+Goethe says:
+
+> Die Muttersprache zugleich reinigen und bereichern ist das Geschaft der besten Kopfe; Reiningen ohne Bereicherung erweist sich ofters geistlos.
+
+Prof. Sanders futher says:
+
+> Nicht dringend genug freilich kann das Streben nach moglichster Reinheit des Ausdrucks empfohlen werden; nicht heiss genug gebrandmarkt die Verunreiningung unserer Sprache.
+
+The best part of a language is the transparent harmony that subsists between its words. This harmony cannot be borrowed, hence we do not get the best part of foreign languages by borrowing. The Danish writer, Holberg, says, in one of his plays, that the devil was once upon earth to bewilder men. He therefore gave each people a separate language, so they could not understand each other; but England being on an Island by itself, he forgot that country. The English cried, because they had no language. The devil took pity on them, and boiled together a soup of the scum from all other languages, and called it English.
+
+Rev. Father Bourke calls English a *barbarous jargon*, and a compound of all languages.
+
+> The famous Skandinavian scientist in electricity and magnetism, Hans Christian Oersted, says: "Altfor ofte have vi optaget fremmede Ord med Tilsidesaettelse af vor egen Sprogskat, ofte have vi ligefrem oversat Fremmedes sammensatte Ord, uagtet vi erholdt Udtryk, som ikke passe til Sprogets Natur. Vore Skribenter ere neppe virksomme nok til at modarbeide de Misbrug, de fleste indfore. Man har sorget for det moderne latinske Sprog ved at gjore en Ordbog over de af de nyere Skribenter hyppigst begaaede Feil. Vort Sprog kunde traenge til en saadan Antibarbarus.
+
+From the great Danish Historian, Poet and Divine N.F.S. Grundtvig:
+
+```
+Modersmaal er det Rosenbaand,
+Som Store og Smaa omslunger;
+I det lever kun Faedres Aand,
+Og deri kun Hjertet gynger.
+
+Modersmaal er vort Hjertesprog,
+Kun los er al fremmed Tale,
+Det alene i Mund og Bog
+Kan vaekke et Folk af Dvale.
+
+Modersmaalet ved Oresund
+Og trindt i de gronne Lunde
+Deiligt klinger i allen Stund,
+Men deiligst i Pigemunde.
+Sodt i Lyst og sodt i Nod,
+Sodt i Liv og sodt i Dod,
+Sodt i Eftermaelet.
+```
+
+I now quote from a "History of the Swedish Language and Literature," by Gustaf Klaeson, 4th Edition. I call the attention of the reader to the many open and final vowels of this language. All vowels are separately pronounced. He speaks of the great advantage to the people of using self-developing words.
+
+> Betrakta vi ordforadet i denna tids literatur (1640-1730), mota vi en oerhord forbistring. Redan under foregaende tidehvarfvet upptogos manga ofverflodiga ord i spraket, och detta missbruk, som framfor allt traffas i offentliga handlingar och hos forfattare tillhorande de fornama familjerna, grep under forra halften af detta tidehvarhvet allt mer omkring sig. Derigenom fick skrifspraket ett verkligen afskrackande utseende. Ganska fa voro de forfattare under denna tid, hvilka skrefvo ett sprak, som me ratt kunde kallas *svenska*. De fleste vanstalde modersmalet genom ett brokigt pahang af latinska och franska uttryck och ordformer, hvarigenom dess anborna manlighet, adelhet och behag helt och hallet utplanades eller bortskymdes. Jemfor man nagon af dessa skrifter med reformatorernes fran foregaende tidehvarf, hapnar man ovilkorligt ofver det forfall, som 1600-talets skrifsprak foreter. Det ar ingenting ovanligt att der traffa sadana franstotande uttryck som t. ex. dessa: *jag kommer att extendera mig pa subjectet af den person; mitt humeur ar icke porterat att ingerera mig i den saken; jag promitterar mig att varda protegerat*, o. dyl. Flera fosterlandskt sinnade man upptradde mot denna sprakforbistring. *Spegel, Svedberg, Lindschold o. a. ifrade afven mot de frammande ordens otidiga anvandande. Den nya kyrkolagen inskarpte hos presterskapet vigten af ett rent sprak, i tva bref till hofraterna forbjod Karl XI. dessa att inblanda utlandska ord i spraket, och i sin kansliordning pabjod Karl XII. bruket af ren svenska och undvikandet af frammande ord. Antalet af svenska skrifter tillvaxte betydligt under detta tidskifte.
+
