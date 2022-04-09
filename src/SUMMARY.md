@@ -25,3 +25,5 @@
 - [pt.—Amerikan and Volapuk Compared](./plea/14-volapuk.md)
 - [pd.—Organization and Introduction](./plea/15-organization.md)
 - [pk.—GRAMMAR OF THE AMERIKAN LANGUAGE](./plea/16-grammar.md)
+  - [Lessons](./plea/17-lessons.md)
+  - [One Page Grammar](./plea/18-one-page-grammar.md)
